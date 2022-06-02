@@ -10,12 +10,12 @@
   "text": {
     "more": "lllllll",
     "intro": "Russian propaganda channels",
-    "title": "Propaganda here"
+    "title": "Propaganda sprout"
   },
   "legend": {
-    "edgeLabel": "Репост",
-    "colorLabel": "Число сделанных репостов",
-    "nodeLabel": "Канал"
+    "edgeLabel": "Forwarded message",
+    "colorLabel": "Number of forwards",
+    "nodeLabel": "Channel"
   },
   "features": {
     "search": true,
@@ -43,7 +43,7 @@
       "maxEdgeSize": 0.5,
       "minEdgeSize": 0.2,
       "minNodeSize": 1,
-      "maxNodeSize": 7
+      "maxNodeSize": 50
     },
     "mouseProperties": {
       "maxRatio": 20,
