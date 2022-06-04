@@ -8,7 +8,7 @@
     "text": "LP"
   },
   "text": {
-    "more": "lllllll",
+    "more": "How vast pro-kremlin telegram channels net is and what does it consist of.",
     "intro": "Russian propaganda channels",
     "title": "Propaganda sprout"
   },
@@ -18,7 +18,7 @@
     "nodeLabel": "Channel"
   },
   "features": {
-    "search": true,
+    "search": false,
     "groupSelectorAttribute": false,
     "hoverBehavior": "None"
   },
